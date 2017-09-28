@@ -1,1 +1,1 @@
-Super Human demo for WelcomeTrust
+Super Human demo for Wellcome Collections
